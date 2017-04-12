@@ -7,6 +7,5 @@
 ##### Final note. For now, I'm not providing any instructions or dependencies to run this code and not all of it is implemented 100% correctly
 
 This is a repo where I'll be storing any code which I found challenging and interesting to complete, and/or I thought was of at least passable quality.
-Languages covered will include sml_nj, C, python, C++. 
-I don't have all of my code since I lost my old laptop's backup, but I'll try to keep this up to date to prevent a similar situation.
-
+Languages covered will include sml_nj, C, python (some uploaded as a jupyter notebook), C++. 
+I don't have all of my code from my courses, but I'll try to keep this up to date.
